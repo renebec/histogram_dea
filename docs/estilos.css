@@ -4,6 +4,6 @@ img {
     margin: 10px;
 }
 img:hover{
-    height: 480px;
-    width: 620px;
+    height: auto;
+    width: auto;
 }
