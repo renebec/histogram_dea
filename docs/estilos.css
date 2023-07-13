@@ -4,5 +4,6 @@ img {
     margin: 10px;
 }
 img:hover{
-    height: 450px;
+    width: 450px;
+    height: 390px;
     }
